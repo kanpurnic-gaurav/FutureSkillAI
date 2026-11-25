@@ -1,0 +1,3 @@
+Risk,Description,Potential_Impact,Risk_Level,NIC_Mitigation
+Prompt Injection,Malicious instructions embedded in citizen complaints may manipulate AI responses.,Unauthorized information disclosure or incorrect responses.,High,"Treat complaint text as untrusted input, use secure prompts, restrict access and validate AI outputs."
+Algorithmic Bias,"AI may produce unfair predictions for certain languages, regions or citizen groups.",Incorrect grievance classification and unequal service delivery.,High,"Use diverse training data, test performance across languages and regions, conduct regular audits and provide human review."
