@@ -1,0 +1,501 @@
+Complaint_ID,State,Department,Complaint_Date,Status,Resolution_Days,Complaint_Description
+JS0001,Madhya Pradesh,Electricity,2025-05-06,Pending,9,Frequent power cuts in our village
+JS0002,Uttar Pradesh,Electricity,2025-10-30,Resolved,3,Electricity connection request is pending
+JS0003,Bihar,Electricity,2025-04-30,In Progress,39,Frequent power cuts in our village
+JS0004,Bihar,Electricity,2025-11-29,In Progress,35,Electricity connection request is pending
+JS0005,Rajasthan,Health,2025-10-29,Resolved,52,Doctor is not available at the health centre
+JS0006,Rajasthan,Electricity,2025-06-24,Resolved,10,Electricity bill is incorrect
+JS0007,Uttar Pradesh,Water Supply,2025-02-17,Resolved,7,Dirty water is coming from taps
+JS0008,Delhi,Public Works,2025-05-16,Pending,47,Drainage system is blocked
+JS0009,Uttar Pradesh,Health,2025-07-13,Pending,36,Health centre needs improvement
+JS0010,Madhya Pradesh,Public Works,2025-10-23,Pending,46,Garbage is not being collected
+JS0011,Bihar,Electricity,2025-05-29,Pending,55,Frequent power cuts in our village
+JS0012,Rajasthan,Water Supply,2025-05-23,Resolved,41,No drinking water supply in our area
+JS0013,Madhya Pradesh,Public Works,2025-07-01,Pending,43,Street lights are not working
+JS0014,Delhi,Public Works,2025-11-22,Pending,35,Roads are damaged and full of potholes
+JS0015,Rajasthan,Water Supply,2025-07-14,Resolved,60,Water pipeline is leaking
+JS0016,Madhya Pradesh,Education,2025-01-29,Pending,53,Scholarship payment is delayed
+JS0017,Rajasthan,Electricity,2025-05-18,Pending,14,Transformer is damaged
+JS0018,Bihar,Education,2025-12-02,Resolved,26,School building needs repair
+JS0019,Madhya Pradesh,Health,2025-03-13,Pending,48,Doctor is not available at the health centre
+JS0020,Madhya Pradesh,Education,2025-10-27,Resolved,58,School has insufficient facilities
+JS0021,Madhya Pradesh,Education,2025-04-23,Pending,33,Students are not receiving textbooks
+JS0022,Uttar Pradesh,Health,2025-02-26,Pending,41,Government hospital lacks medicines
+JS0023,Delhi,Water Supply,2025-02-02,Resolved,25,Water connection request is pending
+JS0024,Delhi,Education,2025-05-09,In Progress,56,Students are not receiving textbooks
+JS0025,Delhi,Electricity,2025-05-17,In Progress,22,Frequent power cuts in our village
+JS0026,Rajasthan,Electricity,2025-03-22,Resolved,1,Transformer is damaged
+JS0027,Bihar,Public Works,2025-09-17,Pending,56,Garbage is not being collected
+JS0028,Delhi,Public Works,2025-04-12,Pending,24,Garbage is not being collected
+JS0029,Delhi,Water Supply,2025-01-01,In Progress,21,Water supply is irregular
+JS0030,Uttar Pradesh,Health,2025-07-05,Resolved,16,Government hospital lacks medicines
+JS0031,Delhi,Electricity,2025-02-10,Pending,47,Electricity bill is incorrect
+JS0032,Delhi,Health,2025-03-06,Pending,43,Government hospital lacks medicines
+JS0033,Bihar,Health,2025-05-16,In Progress,56,Health centre needs improvement
+JS0034,Bihar,Education,2025-10-04,In Progress,45,Students are not receiving textbooks
+JS0035,Rajasthan,Water Supply,2025-12-10,In Progress,24,Dirty water is coming from taps
+JS0036,Rajasthan,Health,2025-03-03,Pending,15,Health centre needs improvement
+JS0037,Uttar Pradesh,Electricity,2025-10-29,In Progress,15,Transformer is damaged
+JS0038,Uttar Pradesh,Education,2025-02-06,In Progress,41,Scholarship payment is delayed
+JS0039,Uttar Pradesh,Electricity,2025-01-17,Resolved,5,Electricity bill is incorrect
+JS0040,Madhya Pradesh,Education,2025-12-09,Resolved,14,Scholarship payment is delayed
+JS0041,Delhi,Education,2025-10-23,Resolved,16,Scholarship payment is delayed
+JS0042,Bihar,Health,2025-02-18,Pending,43,Ambulance service is delayed
+JS0043,Rajasthan,Health,2025-07-30,Resolved,56,Hospital facilities are inadequate
+JS0044,Uttar Pradesh,Electricity,2025-07-26,In Progress,22,Frequent power cuts in our village
+JS0045,Bihar,Electricity,2025-04-08,In Progress,29,Electricity bill is incorrect
+JS0046,Bihar,Water Supply,2025-05-23,Resolved,16,Water connection request is pending
+JS0047,Delhi,Electricity,2025-02-20,Pending,42,No electricity supply for several days
+JS0048,Uttar Pradesh,Education,2025-05-02,Pending,27,Teachers are absent from school
+JS0049,Bihar,Health,2025-07-25,Pending,11,Ambulance service is delayed
+JS0050,Rajasthan,Health,2025-05-16,Resolved,19,Government hospital lacks medicines
+JS0051,Rajasthan,Health,2025-03-21,Pending,19,Health centre needs improvement
+JS0052,Delhi,Water Supply,2025-10-05,Pending,48,No drinking water supply in our area
+JS0053,Uttar Pradesh,Public Works,2025-10-27,Resolved,33,Roads are damaged and full of potholes
+JS0054,Uttar Pradesh,Education,2025-09-18,Pending,55,Scholarship payment is delayed
+JS0055,Delhi,Water Supply,2025-02-04,In Progress,56,No drinking water supply in our area
+JS0056,Uttar Pradesh,Water Supply,2025-10-19,Pending,38,Water connection request is pending
+JS0057,Delhi,Education,2025-02-11,Resolved,43,Teachers are absent from school
+JS0058,Delhi,Education,2025-06-11,Resolved,14,School has insufficient facilities
+JS0059,Madhya Pradesh,Public Works,2025-07-22,Pending,43,Street lights are not working
+JS0060,Madhya Pradesh,Public Works,2025-02-07,Pending,30,Road construction work is incomplete
+JS0061,Uttar Pradesh,Education,2025-02-07,In Progress,14,School has insufficient facilities
+JS0062,Bihar,Education,2025-06-28,Pending,57,School building needs repair
+JS0063,Madhya Pradesh,Water Supply,2025-03-22,Resolved,54,Dirty water is coming from taps
+JS0064,Delhi,Education,2025-12-01,In Progress,1,School building needs repair
+JS0065,Uttar Pradesh,Education,2025-03-10,Resolved,8,School building needs repair
+JS0066,Bihar,Electricity,2025-05-20,Resolved,39,Electricity connection request is pending
+JS0067,Bihar,Water Supply,2025-12-18,In Progress,55,Dirty water is coming from taps
+JS0068,Rajasthan,Public Works,2025-05-09,Pending,6,Garbage is not being collected
+JS0069,Uttar Pradesh,Health,2025-01-02,Resolved,50,Hospital facilities are inadequate
+JS0070,Bihar,Water Supply,2025-08-15,In Progress,46,Dirty water is coming from taps
+JS0071,Uttar Pradesh,Health,2025-02-27,Pending,57,Health centre needs improvement
+JS0072,Uttar Pradesh,Water Supply,2025-07-09,In Progress,36,Water supply is irregular
+JS0073,Bihar,Water Supply,2025-01-22,Resolved,24,Water connection request is pending
+JS0074,Bihar,Electricity,2025-12-16,Pending,43,Transformer is damaged
+JS0075,Delhi,Electricity,2025-07-28,In Progress,48,Transformer is damaged
+JS0076,Bihar,Water Supply,2025-04-01,Resolved,2,Water pipeline is leaking
+JS0077,Rajasthan,Water Supply,2025-12-09,In Progress,52,Dirty water is coming from taps
+JS0078,Bihar,Water Supply,2025-12-26,Pending,25,Dirty water is coming from taps
+JS0079,Bihar,Electricity,2025-04-13,Resolved,23,No electricity supply for several days
+JS0080,Bihar,Public Works,2025-01-13,In Progress,13,Street lights are not working
+JS0081,Madhya Pradesh,Health,2025-02-05,Resolved,23,Hospital facilities are inadequate
+JS0082,Delhi,Education,2025-06-19,Pending,8,Students are not receiving textbooks
+JS0083,Delhi,Public Works,2025-05-16,Pending,7,Street lights are not working
+JS0084,Madhya Pradesh,Education,2025-06-10,Resolved,39,Students are not receiving textbooks
+JS0085,Rajasthan,Education,2025-10-23,Pending,17,Teachers are absent from school
+JS0086,Uttar Pradesh,Electricity,2025-09-24,In Progress,44,No electricity supply for several days
+JS0087,Rajasthan,Water Supply,2025-02-05,In Progress,59,Dirty water is coming from taps
+JS0088,Madhya Pradesh,Public Works,2025-12-06,Pending,47,Garbage is not being collected
+JS0089,Madhya Pradesh,Public Works,2025-12-08,Resolved,21,Garbage is not being collected
+JS0090,Delhi,Health,2025-03-07,Pending,27,Hospital facilities are inadequate
+JS0091,Delhi,Health,2025-10-19,Resolved,26,Doctor is not available at the health centre
+JS0092,Madhya Pradesh,Education,2025-05-27,Pending,28,Teachers are absent from school
+JS0093,Madhya Pradesh,Education,2025-08-27,Resolved,29,School has insufficient facilities
+JS0094,Rajasthan,Water Supply,2025-03-28,In Progress,6,Water supply is irregular
+JS0095,Delhi,Public Works,2025-06-21,Pending,53,Garbage is not being collected
+JS0096,Bihar,Water Supply,2025-04-12,Pending,2,Dirty water is coming from taps
+JS0097,Rajasthan,Electricity,2025-11-09,Pending,30,Electricity bill is incorrect
+JS0098,Bihar,Health,2025-12-23,Resolved,32,Health centre needs improvement
+JS0099,Bihar,Health,2025-12-02,In Progress,1,Doctor is not available at the health centre
+JS0100,Bihar,Electricity,2025-04-01,In Progress,34,No electricity supply for several days
+JS0101,Delhi,Health,2025-05-08,Pending,30,Government hospital lacks medicines
+JS0102,Delhi,Water Supply,2025-10-14,In Progress,21,Water connection request is pending
+JS0103,Delhi,Health,2025-08-07,In Progress,29,Health centre needs improvement
+JS0104,Rajasthan,Water Supply,2025-05-13,Pending,54,Water connection request is pending
+JS0105,Rajasthan,Public Works,2025-11-17,Pending,18,Garbage is not being collected
+JS0106,Madhya Pradesh,Health,2025-05-01,Resolved,22,Government hospital lacks medicines
+JS0107,Uttar Pradesh,Public Works,2025-03-12,Pending,15,Garbage is not being collected
+JS0108,Bihar,Health,2025-02-02,Resolved,27,Doctor is not available at the health centre
+JS0109,Rajasthan,Public Works,2025-08-01,Pending,14,Garbage is not being collected
+JS0110,Delhi,Health,2025-12-23,Pending,55,Ambulance service is delayed
+JS0111,Rajasthan,Education,2025-01-04,Resolved,20,Students are not receiving textbooks
+JS0112,Delhi,Health,2025-10-07,In Progress,58,Ambulance service is delayed
+JS0113,Bihar,Water Supply,2025-05-20,Resolved,32,Water connection request is pending
+JS0114,Madhya Pradesh,Electricity,2025-12-09,In Progress,52,No electricity supply for several days
+JS0115,Rajasthan,Health,2025-03-07,In Progress,35,Doctor is not available at the health centre
+JS0116,Delhi,Electricity,2025-10-16,In Progress,2,No electricity supply for several days
+JS0117,Bihar,Electricity,2025-08-25,Pending,4,No electricity supply for several days
+JS0118,Madhya Pradesh,Public Works,2025-04-19,Resolved,21,Road construction work is incomplete
+JS0119,Madhya Pradesh,Public Works,2025-08-04,Resolved,54,Road construction work is incomplete
+JS0120,Uttar Pradesh,Electricity,2025-10-04,Pending,23,No electricity supply for several days
+JS0121,Uttar Pradesh,Water Supply,2025-01-16,Pending,13,No drinking water supply in our area
+JS0122,Bihar,Electricity,2025-05-03,Pending,31,Electricity connection request is pending
+JS0123,Bihar,Electricity,2025-08-27,In Progress,17,Electricity connection request is pending
+JS0124,Delhi,Public Works,2025-11-07,In Progress,46,Street lights are not working
+JS0125,Madhya Pradesh,Electricity,2025-02-25,In Progress,2,Electricity bill is incorrect
+JS0126,Rajasthan,Public Works,2025-07-23,In Progress,13,Garbage is not being collected
+JS0127,Bihar,Electricity,2025-02-22,In Progress,50,Electricity connection request is pending
+JS0128,Uttar Pradesh,Public Works,2025-10-17,Pending,23,Garbage is not being collected
+JS0129,Madhya Pradesh,Education,2025-02-05,In Progress,42,Students are not receiving textbooks
+JS0130,Rajasthan,Public Works,2025-09-08,Pending,28,Roads are damaged and full of potholes
+JS0131,Bihar,Public Works,2025-08-11,Pending,47,Road construction work is incomplete
+JS0132,Delhi,Education,2025-10-03,Resolved,30,School building needs repair
+JS0133,Madhya Pradesh,Health,2025-06-15,Pending,54,Health centre needs improvement
+JS0134,Rajasthan,Electricity,2025-05-05,Resolved,37,Transformer is damaged
+JS0135,Madhya Pradesh,Education,2025-01-15,Resolved,55,Students are not receiving textbooks
+JS0136,Rajasthan,Public Works,2025-04-19,Resolved,52,Street lights are not working
+JS0137,Madhya Pradesh,Public Works,2025-11-02,In Progress,57,Drainage system is blocked
+JS0138,Uttar Pradesh,Public Works,2025-09-22,Pending,6,Garbage is not being collected
+JS0139,Rajasthan,Water Supply,2025-10-12,Pending,45,Water connection request is pending
+JS0140,Rajasthan,Health,2025-01-09,Pending,19,Ambulance service is delayed
+JS0141,Bihar,Water Supply,2025-06-06,In Progress,38,Water connection request is pending
+JS0142,Delhi,Public Works,2025-09-29,Resolved,28,Road construction work is incomplete
+JS0143,Madhya Pradesh,Education,2025-12-26,Resolved,18,School building needs repair
+JS0144,Bihar,Public Works,2025-03-03,In Progress,13,Drainage system is blocked
+JS0145,Delhi,Public Works,2025-12-20,Pending,13,Roads are damaged and full of potholes
+JS0146,Madhya Pradesh,Water Supply,2025-10-29,In Progress,39,Water connection request is pending
+JS0147,Bihar,Public Works,2025-06-01,Pending,24,Roads are damaged and full of potholes
+JS0148,Uttar Pradesh,Water Supply,2025-12-29,In Progress,9,Dirty water is coming from taps
+JS0149,Uttar Pradesh,Public Works,2025-10-11,Resolved,45,Roads are damaged and full of potholes
+JS0150,Uttar Pradesh,Water Supply,2025-01-07,In Progress,19,Water connection request is pending
+JS0151,Rajasthan,Health,2025-06-24,Pending,4,Ambulance service is delayed
+JS0152,Uttar Pradesh,Public Works,2025-02-03,Resolved,32,Road construction work is incomplete
+JS0153,Uttar Pradesh,Electricity,2025-03-19,Pending,52,Electricity connection request is pending
+JS0154,Uttar Pradesh,Education,2025-05-08,Pending,36,School building needs repair
+JS0155,Delhi,Health,2025-11-13,Pending,50,Health centre needs improvement
+JS0156,Rajasthan,Education,2025-08-15,Resolved,56,Students are not receiving textbooks
+JS0157,Madhya Pradesh,Education,2025-10-19,In Progress,4,Students are not receiving textbooks
+JS0158,Bihar,Education,2025-11-17,Pending,17,Teachers are absent from school
+JS0159,Bihar,Electricity,2025-03-30,In Progress,5,Electricity bill is incorrect
+JS0160,Rajasthan,Water Supply,2025-08-19,In Progress,39,No drinking water supply in our area
+JS0161,Uttar Pradesh,Health,2025-04-29,Resolved,46,Hospital facilities are inadequate
+JS0162,Uttar Pradesh,Public Works,2025-12-18,Pending,60,Road construction work is incomplete
+JS0163,Bihar,Public Works,2025-08-06,Pending,35,Garbage is not being collected
+JS0164,Madhya Pradesh,Water Supply,2025-03-14,Pending,4,Water pipeline is leaking
+JS0165,Delhi,Water Supply,2025-10-19,Resolved,29,Dirty water is coming from taps
+JS0166,Madhya Pradesh,Electricity,2025-12-25,Resolved,18,No electricity supply for several days
+JS0167,Rajasthan,Education,2025-08-13,Pending,39,School has insufficient facilities
+JS0168,Madhya Pradesh,Electricity,2025-11-06,Resolved,2,No electricity supply for several days
+JS0169,Delhi,Electricity,2025-10-28,Pending,49,Electricity bill is incorrect
+JS0170,Uttar Pradesh,Public Works,2025-03-31,Resolved,34,Garbage is not being collected
+JS0171,Bihar,Health,2025-10-27,Resolved,41,Hospital facilities are inadequate
+JS0172,Rajasthan,Health,2025-06-28,Resolved,22,Government hospital lacks medicines
+JS0173,Bihar,Public Works,2025-06-18,Resolved,45,Roads are damaged and full of potholes
+JS0174,Rajasthan,Health,2025-10-09,Pending,30,Hospital facilities are inadequate
+JS0175,Madhya Pradesh,Electricity,2025-06-15,Pending,50,Transformer is damaged
+JS0176,Uttar Pradesh,Health,2025-12-03,In Progress,30,Health centre needs improvement
+JS0177,Bihar,Health,2025-09-23,Resolved,40,Government hospital lacks medicines
+JS0178,Uttar Pradesh,Health,2025-04-15,Resolved,36,Ambulance service is delayed
+JS0179,Rajasthan,Water Supply,2025-12-24,Resolved,8,Dirty water is coming from taps
+JS0180,Bihar,Electricity,2025-12-30,Pending,20,Electricity connection request is pending
+JS0181,Delhi,Education,2025-07-28,Pending,15,Teachers are absent from school
+JS0182,Uttar Pradesh,Electricity,2025-11-28,Pending,32,No electricity supply for several days
+JS0183,Madhya Pradesh,Public Works,2025-08-01,Resolved,31,Garbage is not being collected
+JS0184,Delhi,Water Supply,2025-03-16,Resolved,13,Water connection request is pending
+JS0185,Bihar,Education,2025-02-05,Resolved,50,School has insufficient facilities
+JS0186,Delhi,Health,2025-05-17,Pending,19,Hospital facilities are inadequate
+JS0187,Delhi,Public Works,2025-12-04,Resolved,56,Garbage is not being collected
+JS0188,Delhi,Water Supply,2025-09-05,Resolved,22,Water connection request is pending
+JS0189,Rajasthan,Education,2025-08-22,Resolved,56,School has insufficient facilities
+JS0190,Delhi,Water Supply,2025-07-16,Pending,55,Water pipeline is leaking
+JS0191,Madhya Pradesh,Health,2025-08-31,In Progress,59,Government hospital lacks medicines
+JS0192,Bihar,Health,2025-09-11,Pending,9,Ambulance service is delayed
+JS0193,Madhya Pradesh,Education,2025-02-21,Resolved,7,School has insufficient facilities
+JS0194,Uttar Pradesh,Education,2025-03-15,Resolved,56,Students are not receiving textbooks
+JS0195,Rajasthan,Water Supply,2025-05-16,Resolved,40,No drinking water supply in our area
+JS0196,Madhya Pradesh,Health,2025-12-12,In Progress,25,Government hospital lacks medicines
+JS0197,Delhi,Public Works,2025-01-19,In Progress,5,Road construction work is incomplete
+JS0198,Bihar,Water Supply,2025-02-16,Resolved,7,Dirty water is coming from taps
+JS0199,Bihar,Electricity,2025-12-22,Resolved,58,No electricity supply for several days
+JS0200,Madhya Pradesh,Electricity,2025-01-29,Resolved,23,Frequent power cuts in our village
+JS0201,Bihar,Public Works,2025-05-06,In Progress,27,Road construction work is incomplete
+JS0202,Bihar,Education,2025-03-31,Pending,40,Scholarship payment is delayed
+JS0203,Bihar,Health,2025-09-12,In Progress,10,Health centre needs improvement
+JS0204,Madhya Pradesh,Water Supply,2025-08-24,Resolved,43,Water connection request is pending
+JS0205,Madhya Pradesh,Electricity,2025-12-13,In Progress,11,No electricity supply for several days
+JS0206,Madhya Pradesh,Electricity,2025-10-28,Resolved,41,No electricity supply for several days
+JS0207,Rajasthan,Health,2025-06-04,Pending,25,Hospital facilities are inadequate
+JS0208,Bihar,Health,2025-07-15,In Progress,23,Government hospital lacks medicines
+JS0209,Madhya Pradesh,Education,2025-01-12,In Progress,26,School building needs repair
+JS0210,Delhi,Public Works,2025-12-18,In Progress,4,Roads are damaged and full of potholes
+JS0211,Madhya Pradesh,Education,2025-04-28,In Progress,52,Students are not receiving textbooks
+JS0212,Bihar,Public Works,2025-11-14,Resolved,44,Street lights are not working
+JS0213,Uttar Pradesh,Water Supply,2025-06-08,Resolved,3,No drinking water supply in our area
+JS0214,Bihar,Education,2025-02-16,Resolved,21,School building needs repair
+JS0215,Bihar,Health,2025-03-09,In Progress,57,Doctor is not available at the health centre
+JS0216,Delhi,Public Works,2025-05-20,Pending,17,Garbage is not being collected
+JS0217,Madhya Pradesh,Health,2025-02-28,Resolved,5,Hospital facilities are inadequate
+JS0218,Rajasthan,Water Supply,2025-10-13,Resolved,6,Water pipeline is leaking
+JS0219,Madhya Pradesh,Health,2025-10-02,Pending,30,Government hospital lacks medicines
+JS0220,Delhi,Public Works,2025-07-15,In Progress,24,Drainage system is blocked
+JS0221,Rajasthan,Electricity,2025-01-13,In Progress,57,Electricity bill is incorrect
+JS0222,Delhi,Education,2025-04-24,In Progress,5,School building needs repair
+JS0223,Rajasthan,Health,2025-03-01,Pending,3,Hospital facilities are inadequate
+JS0224,Rajasthan,Electricity,2025-03-01,Pending,16,Transformer is damaged
+JS0225,Rajasthan,Education,2025-08-21,Resolved,43,Scholarship payment is delayed
+JS0226,Delhi,Education,2025-03-21,Resolved,42,Students are not receiving textbooks
+JS0227,Delhi,Electricity,2025-07-28,Resolved,3,No electricity supply for several days
+JS0228,Rajasthan,Public Works,2025-08-16,Pending,55,Street lights are not working
+JS0229,Madhya Pradesh,Public Works,2025-10-06,In Progress,23,Roads are damaged and full of potholes
+JS0230,Madhya Pradesh,Electricity,2025-04-08,Pending,55,No electricity supply for several days
+JS0231,Bihar,Health,2025-11-25,In Progress,39,Government hospital lacks medicines
+JS0232,Madhya Pradesh,Electricity,2025-05-05,Pending,51,Frequent power cuts in our village
+JS0233,Uttar Pradesh,Education,2025-10-11,Pending,38,Scholarship payment is delayed
+JS0234,Madhya Pradesh,Water Supply,2025-03-17,In Progress,1,Water pipeline is leaking
+JS0235,Bihar,Public Works,2025-10-04,Resolved,52,Street lights are not working
+JS0236,Uttar Pradesh,Water Supply,2025-03-09,Pending,23,No drinking water supply in our area
+JS0237,Madhya Pradesh,Water Supply,2025-01-09,Pending,17,Water supply is irregular
+JS0238,Rajasthan,Electricity,2025-09-27,Pending,48,Electricity bill is incorrect
+JS0239,Rajasthan,Electricity,2025-07-05,In Progress,38,No electricity supply for several days
+JS0240,Delhi,Electricity,2025-04-24,In Progress,3,No electricity supply for several days
+JS0241,Rajasthan,Education,2025-11-26,Pending,4,School building needs repair
+JS0242,Rajasthan,Health,2025-12-18,Pending,32,Ambulance service is delayed
+JS0243,Uttar Pradesh,Health,2025-06-14,In Progress,10,Government hospital lacks medicines
+JS0244,Madhya Pradesh,Electricity,2025-11-16,In Progress,38,Electricity bill is incorrect
+JS0245,Rajasthan,Education,2025-11-02,In Progress,19,School building needs repair
+JS0246,Delhi,Health,2025-08-09,Pending,51,Health centre needs improvement
+JS0247,Bihar,Electricity,2025-08-09,Resolved,57,Electricity connection request is pending
+JS0248,Madhya Pradesh,Water Supply,2025-08-21,Resolved,27,Water connection request is pending
+JS0249,Rajasthan,Electricity,2025-06-10,In Progress,17,Transformer is damaged
+JS0250,Rajasthan,Public Works,2025-02-04,Pending,54,Street lights are not working
+JS0251,Rajasthan,Electricity,2025-02-19,In Progress,48,Frequent power cuts in our village
+JS0252,Delhi,Public Works,2025-01-31,In Progress,36,Street lights are not working
+JS0253,Uttar Pradesh,Education,2025-07-30,Resolved,56,School building needs repair
+JS0254,Madhya Pradesh,Health,2025-11-04,Resolved,23,Government hospital lacks medicines
+JS0255,Delhi,Electricity,2025-04-19,Pending,43,Electricity connection request is pending
+JS0256,Uttar Pradesh,Health,2025-06-29,In Progress,24,Doctor is not available at the health centre
+JS0257,Delhi,Electricity,2025-04-26,Resolved,55,Transformer is damaged
+JS0258,Delhi,Education,2025-12-12,In Progress,36,School has insufficient facilities
+JS0259,Madhya Pradesh,Electricity,2025-01-15,Pending,18,Electricity connection request is pending
+JS0260,Madhya Pradesh,Public Works,2025-01-04,Pending,56,Drainage system is blocked
+JS0261,Rajasthan,Water Supply,2025-02-05,Pending,48,Water supply is irregular
+JS0262,Delhi,Electricity,2025-04-21,Resolved,27,Frequent power cuts in our village
+JS0263,Bihar,Health,2025-07-09,Resolved,47,Hospital facilities are inadequate
+JS0264,Delhi,Public Works,2025-02-13,Pending,10,Garbage is not being collected
+JS0265,Uttar Pradesh,Water Supply,2025-12-12,Pending,18,Water supply is irregular
+JS0266,Rajasthan,Health,2025-11-07,Resolved,27,Ambulance service is delayed
+JS0267,Delhi,Public Works,2025-02-28,Resolved,28,Street lights are not working
+JS0268,Delhi,Electricity,2025-09-07,In Progress,43,Transformer is damaged
+JS0269,Bihar,Public Works,2025-07-22,In Progress,4,Roads are damaged and full of potholes
+JS0270,Madhya Pradesh,Electricity,2025-04-19,Pending,49,Electricity bill is incorrect
+JS0271,Madhya Pradesh,Public Works,2025-03-03,Pending,32,Drainage system is blocked
+JS0272,Bihar,Health,2025-07-14,In Progress,46,Doctor is not available at the health centre
+JS0273,Delhi,Water Supply,2025-12-09,Resolved,5,Water supply is irregular
+JS0274,Rajasthan,Health,2025-01-10,Resolved,59,Government hospital lacks medicines
+JS0275,Delhi,Electricity,2025-08-08,In Progress,26,Transformer is damaged
+JS0276,Uttar Pradesh,Health,2025-07-27,Pending,21,Hospital facilities are inadequate
+JS0277,Rajasthan,Water Supply,2025-12-20,Resolved,6,Water supply is irregular
+JS0278,Bihar,Health,2025-08-12,In Progress,26,Government hospital lacks medicines
+JS0279,Rajasthan,Education,2025-06-08,In Progress,22,Teachers are absent from school
+JS0280,Bihar,Water Supply,2025-02-09,In Progress,41,Dirty water is coming from taps
+JS0281,Delhi,Electricity,2025-04-10,Resolved,23,Electricity connection request is pending
+JS0282,Uttar Pradesh,Water Supply,2025-03-16,Resolved,13,Water pipeline is leaking
+JS0283,Bihar,Water Supply,2025-12-02,Pending,12,Water supply is irregular
+JS0284,Delhi,Health,2025-10-24,Resolved,44,Ambulance service is delayed
+JS0285,Madhya Pradesh,Education,2025-11-18,Resolved,10,School has insufficient facilities
+JS0286,Rajasthan,Health,2025-08-15,In Progress,20,Government hospital lacks medicines
+JS0287,Uttar Pradesh,Public Works,2025-06-30,In Progress,5,Garbage is not being collected
+JS0288,Rajasthan,Public Works,2025-01-20,Pending,24,Road construction work is incomplete
+JS0289,Uttar Pradesh,Public Works,2025-11-11,In Progress,33,Roads are damaged and full of potholes
+JS0290,Delhi,Health,2025-10-11,In Progress,58,Ambulance service is delayed
+JS0291,Delhi,Electricity,2025-11-30,Pending,21,No electricity supply for several days
+JS0292,Delhi,Education,2025-03-19,Pending,29,Students are not receiving textbooks
+JS0293,Uttar Pradesh,Electricity,2025-09-16,In Progress,12,Transformer is damaged
+JS0294,Rajasthan,Electricity,2025-08-13,In Progress,34,Electricity bill is incorrect
+JS0295,Madhya Pradesh,Education,2025-07-10,Resolved,25,Scholarship payment is delayed
+JS0296,Delhi,Health,2025-01-27,In Progress,42,Hospital facilities are inadequate
+JS0297,Madhya Pradesh,Public Works,2025-02-18,In Progress,44,Roads are damaged and full of potholes
+JS0298,Madhya Pradesh,Health,2025-12-03,In Progress,56,Hospital facilities are inadequate
+JS0299,Uttar Pradesh,Water Supply,2025-10-26,In Progress,10,Dirty water is coming from taps
+JS0300,Rajasthan,Public Works,2025-03-08,In Progress,46,Drainage system is blocked
+JS0301,Delhi,Electricity,2025-07-12,In Progress,51,Transformer is damaged
+JS0302,Delhi,Public Works,2025-02-17,In Progress,43,Street lights are not working
+JS0303,Madhya Pradesh,Health,2025-01-10,Resolved,20,Health centre needs improvement
+JS0304,Madhya Pradesh,Water Supply,2025-09-06,Pending,15,Water pipeline is leaking
+JS0305,Uttar Pradesh,Water Supply,2025-06-01,Pending,33,Water pipeline is leaking
+JS0306,Uttar Pradesh,Education,2025-12-05,Resolved,57,School has insufficient facilities
+JS0307,Delhi,Education,2025-07-12,Pending,11,Scholarship payment is delayed
+JS0308,Bihar,Water Supply,2025-08-13,Pending,27,Water supply is irregular
+JS0309,Rajasthan,Public Works,2025-11-09,Resolved,49,Street lights are not working
+JS0310,Delhi,Health,2025-05-03,Resolved,52,Doctor is not available at the health centre
+JS0311,Madhya Pradesh,Health,2025-12-14,In Progress,29,Doctor is not available at the health centre
+JS0312,Rajasthan,Health,2025-09-15,In Progress,27,Hospital facilities are inadequate
+JS0313,Delhi,Water Supply,2025-03-12,Resolved,4,Water pipeline is leaking
+JS0314,Delhi,Health,2025-02-22,In Progress,55,Hospital facilities are inadequate
+JS0315,Madhya Pradesh,Education,2025-02-12,Pending,18,Teachers are absent from school
+JS0316,Bihar,Health,2025-08-12,Pending,59,Health centre needs improvement
+JS0317,Madhya Pradesh,Water Supply,2025-01-14,Resolved,4,Water connection request is pending
+JS0318,Madhya Pradesh,Health,2025-05-01,Resolved,6,Health centre needs improvement
+JS0319,Uttar Pradesh,Public Works,2025-06-13,Pending,54,Street lights are not working
+JS0320,Bihar,Public Works,2025-01-20,Resolved,59,Street lights are not working
+JS0321,Rajasthan,Health,2025-08-18,In Progress,1,Doctor is not available at the health centre
+JS0322,Madhya Pradesh,Electricity,2025-04-21,Pending,36,Frequent power cuts in our village
+JS0323,Rajasthan,Education,2025-02-26,Resolved,16,School has insufficient facilities
+JS0324,Uttar Pradesh,Public Works,2025-05-03,Resolved,41,Roads are damaged and full of potholes
+JS0325,Uttar Pradesh,Education,2025-02-26,Resolved,39,Students are not receiving textbooks
+JS0326,Delhi,Education,2025-10-22,Pending,46,Teachers are absent from school
+JS0327,Rajasthan,Water Supply,2025-01-01,In Progress,23,Dirty water is coming from taps
+JS0328,Rajasthan,Water Supply,2025-04-06,In Progress,43,Water supply is irregular
+JS0329,Madhya Pradesh,Electricity,2025-02-04,In Progress,35,Electricity connection request is pending
+JS0330,Delhi,Education,2025-01-11,Resolved,56,School has insufficient facilities
+JS0331,Rajasthan,Health,2025-07-11,Resolved,48,Government hospital lacks medicines
+JS0332,Uttar Pradesh,Electricity,2025-06-26,Pending,47,Transformer is damaged
+JS0333,Madhya Pradesh,Electricity,2025-03-10,Pending,23,Electricity connection request is pending
+JS0334,Bihar,Education,2025-12-17,Resolved,45,School building needs repair
+JS0335,Bihar,Health,2025-02-02,In Progress,50,Doctor is not available at the health centre
+JS0336,Madhya Pradesh,Health,2025-04-14,Pending,51,Government hospital lacks medicines
+JS0337,Madhya Pradesh,Water Supply,2025-06-08,In Progress,26,No drinking water supply in our area
+JS0338,Madhya Pradesh,Education,2025-01-19,In Progress,13,Students are not receiving textbooks
+JS0339,Uttar Pradesh,Public Works,2025-12-02,Resolved,18,Drainage system is blocked
+JS0340,Rajasthan,Electricity,2025-07-24,In Progress,29,Transformer is damaged
+JS0341,Bihar,Health,2025-09-12,In Progress,32,Hospital facilities are inadequate
+JS0342,Madhya Pradesh,Public Works,2025-02-12,In Progress,28,Garbage is not being collected
+JS0343,Delhi,Electricity,2025-04-03,In Progress,19,No electricity supply for several days
+JS0344,Uttar Pradesh,Public Works,2025-06-17,In Progress,19,Roads are damaged and full of potholes
+JS0345,Delhi,Public Works,2025-08-07,Pending,45,Road construction work is incomplete
+JS0346,Rajasthan,Health,2025-01-22,In Progress,56,Hospital facilities are inadequate
+JS0347,Rajasthan,Public Works,2025-05-21,In Progress,51,Garbage is not being collected
+JS0348,Rajasthan,Electricity,2025-07-06,In Progress,52,Frequent power cuts in our village
+JS0349,Bihar,Water Supply,2025-11-08,In Progress,51,No drinking water supply in our area
+JS0350,Bihar,Health,2025-02-04,Pending,50,Government hospital lacks medicines
+JS0351,Rajasthan,Public Works,2025-10-18,Pending,39,Drainage system is blocked
+JS0352,Madhya Pradesh,Water Supply,2025-07-10,Resolved,49,Water connection request is pending
+JS0353,Bihar,Electricity,2025-09-29,Resolved,26,Electricity connection request is pending
+JS0354,Bihar,Public Works,2025-02-28,Pending,48,Drainage system is blocked
+JS0355,Delhi,Water Supply,2025-07-18,In Progress,8,Water connection request is pending
+JS0356,Rajasthan,Public Works,2025-04-20,In Progress,19,Drainage system is blocked
+JS0357,Uttar Pradesh,Health,2025-03-11,Pending,29,Doctor is not available at the health centre
+JS0358,Uttar Pradesh,Water Supply,2025-12-16,Resolved,43,Water connection request is pending
+JS0359,Delhi,Public Works,2025-10-05,Resolved,58,Roads are damaged and full of potholes
+JS0360,Bihar,Public Works,2025-07-05,In Progress,15,Street lights are not working
+JS0361,Bihar,Electricity,2025-05-02,Resolved,2,Electricity bill is incorrect
+JS0362,Delhi,Public Works,2025-07-08,Resolved,52,Garbage is not being collected
+JS0363,Delhi,Education,2025-02-14,Pending,20,Scholarship payment is delayed
+JS0364,Delhi,Health,2025-07-30,Resolved,53,Ambulance service is delayed
+JS0365,Bihar,Education,2025-06-12,In Progress,5,Teachers are absent from school
+JS0366,Delhi,Health,2025-06-26,Pending,57,Ambulance service is delayed
+JS0367,Bihar,Education,2025-03-08,Resolved,33,School has insufficient facilities
+JS0368,Delhi,Electricity,2025-03-20,Resolved,11,Frequent power cuts in our village
+JS0369,Bihar,Water Supply,2025-06-27,In Progress,58,Dirty water is coming from taps
+JS0370,Madhya Pradesh,Public Works,2025-04-11,In Progress,36,Roads are damaged and full of potholes
+JS0371,Madhya Pradesh,Public Works,2025-11-11,In Progress,6,Street lights are not working
+JS0372,Delhi,Education,2025-10-25,Pending,11,Scholarship payment is delayed
+JS0373,Madhya Pradesh,Education,2025-10-16,Pending,53,School has insufficient facilities
+JS0374,Uttar Pradesh,Electricity,2025-11-25,In Progress,17,Frequent power cuts in our village
+JS0375,Rajasthan,Water Supply,2025-11-13,In Progress,2,Water supply is irregular
+JS0376,Madhya Pradesh,Health,2025-11-25,Resolved,31,Health centre needs improvement
+JS0377,Madhya Pradesh,Water Supply,2025-08-21,Pending,45,Water connection request is pending
+JS0378,Rajasthan,Electricity,2025-08-01,Resolved,30,Electricity bill is incorrect
+JS0379,Delhi,Water Supply,2025-03-15,Resolved,56,Dirty water is coming from taps
+JS0380,Rajasthan,Public Works,2025-03-08,Resolved,33,Drainage system is blocked
+JS0381,Madhya Pradesh,Education,2025-05-04,Resolved,8,Teachers are absent from school
+JS0382,Bihar,Public Works,2025-03-14,Pending,4,Road construction work is incomplete
+JS0383,Delhi,Public Works,2025-08-03,Pending,56,Road construction work is incomplete
+JS0384,Delhi,Water Supply,2025-06-10,Pending,49,Dirty water is coming from taps
+JS0385,Delhi,Water Supply,2025-08-28,Resolved,57,Water connection request is pending
+JS0386,Uttar Pradesh,Public Works,2025-02-16,Resolved,33,Road construction work is incomplete
+JS0387,Bihar,Health,2025-10-26,Resolved,4,Doctor is not available at the health centre
+JS0388,Rajasthan,Electricity,2025-11-02,In Progress,44,Transformer is damaged
+JS0389,Delhi,Health,2025-01-05,Pending,28,Hospital facilities are inadequate
+JS0390,Madhya Pradesh,Water Supply,2025-07-26,Resolved,3,Dirty water is coming from taps
+JS0391,Delhi,Health,2025-10-15,Pending,24,Government hospital lacks medicines
+JS0392,Uttar Pradesh,Education,2025-07-17,In Progress,29,School building needs repair
+JS0393,Delhi,Education,2025-12-15,In Progress,8,School building needs repair
+JS0394,Rajasthan,Water Supply,2025-07-11,Resolved,36,No drinking water supply in our area
+JS0395,Bihar,Public Works,2025-11-05,In Progress,26,Street lights are not working
+JS0396,Uttar Pradesh,Education,2025-01-20,Pending,46,Teachers are absent from school
+JS0397,Delhi,Public Works,2025-08-22,Pending,39,Road construction work is incomplete
+JS0398,Madhya Pradesh,Education,2025-11-10,Resolved,11,Scholarship payment is delayed
+JS0399,Madhya Pradesh,Health,2025-10-31,Resolved,33,Health centre needs improvement
+JS0400,Rajasthan,Education,2025-12-29,In Progress,20,School has insufficient facilities
+JS0401,Madhya Pradesh,Health,2025-06-19,In Progress,8,Government hospital lacks medicines
+JS0402,Madhya Pradesh,Health,2025-12-19,In Progress,2,Health centre needs improvement
+JS0403,Madhya Pradesh,Education,2025-12-02,In Progress,37,Students are not receiving textbooks
+JS0404,Delhi,Water Supply,2025-09-03,Pending,34,No drinking water supply in our area
+JS0405,Bihar,Education,2025-12-15,Pending,3,Students are not receiving textbooks
+JS0406,Bihar,Education,2025-01-10,Resolved,21,Teachers are absent from school
+JS0407,Rajasthan,Health,2025-12-20,Pending,27,Doctor is not available at the health centre
+JS0408,Rajasthan,Education,2025-02-01,In Progress,9,School has insufficient facilities
+JS0409,Delhi,Education,2025-06-16,In Progress,31,Scholarship payment is delayed
+JS0410,Madhya Pradesh,Education,2025-03-30,Resolved,59,Students are not receiving textbooks
+JS0411,Delhi,Education,2025-07-01,In Progress,50,School building needs repair
+JS0412,Rajasthan,Public Works,2025-04-09,Pending,18,Garbage is not being collected
+JS0413,Bihar,Education,2025-06-02,Resolved,46,School building needs repair
+JS0414,Madhya Pradesh,Water Supply,2025-09-03,Resolved,36,Water connection request is pending
+JS0415,Uttar Pradesh,Public Works,2025-10-21,In Progress,35,Drainage system is blocked
+JS0416,Madhya Pradesh,Health,2025-03-16,Resolved,3,Ambulance service is delayed
+JS0417,Madhya Pradesh,Public Works,2025-08-15,In Progress,17,Roads are damaged and full of potholes
+JS0418,Bihar,Health,2025-10-03,Resolved,60,Doctor is not available at the health centre
+JS0419,Bihar,Education,2025-02-25,In Progress,48,School building needs repair
+JS0420,Bihar,Education,2025-01-26,In Progress,58,Scholarship payment is delayed
+JS0421,Bihar,Education,2025-01-27,Pending,27,Scholarship payment is delayed
+JS0422,Uttar Pradesh,Public Works,2025-12-15,Pending,1,Road construction work is incomplete
+JS0423,Rajasthan,Education,2025-12-01,Resolved,31,Scholarship payment is delayed
+JS0424,Madhya Pradesh,Water Supply,2025-05-27,In Progress,4,Dirty water is coming from taps
+JS0425,Bihar,Electricity,2025-10-01,In Progress,47,Electricity connection request is pending
+JS0426,Rajasthan,Electricity,2025-04-01,Pending,54,Electricity bill is incorrect
+JS0427,Bihar,Health,2025-05-29,Pending,1,Ambulance service is delayed
+JS0428,Delhi,Public Works,2025-02-24,Resolved,19,Garbage is not being collected
+JS0429,Delhi,Health,2025-09-10,Pending,55,Health centre needs improvement
+JS0430,Madhya Pradesh,Education,2025-04-09,Pending,22,Students are not receiving textbooks
+JS0431,Madhya Pradesh,Water Supply,2025-04-06,Pending,48,Water connection request is pending
+JS0432,Delhi,Public Works,2025-12-12,Pending,12,Drainage system is blocked
+JS0433,Rajasthan,Education,2025-09-21,Resolved,6,Students are not receiving textbooks
+JS0434,Bihar,Health,2025-03-13,Resolved,21,Government hospital lacks medicines
+JS0435,Madhya Pradesh,Water Supply,2025-07-16,Pending,29,No drinking water supply in our area
+JS0436,Madhya Pradesh,Public Works,2025-10-26,In Progress,37,Drainage system is blocked
+JS0437,Madhya Pradesh,Electricity,2025-12-21,Pending,4,Transformer is damaged
+JS0438,Madhya Pradesh,Electricity,2025-03-23,Resolved,44,No electricity supply for several days
+JS0439,Uttar Pradesh,Education,2025-11-24,Resolved,24,School building needs repair
+JS0440,Bihar,Education,2025-03-10,Resolved,10,Scholarship payment is delayed
+JS0441,Madhya Pradesh,Health,2025-08-01,In Progress,36,Health centre needs improvement
+JS0442,Bihar,Health,2025-05-07,In Progress,49,Health centre needs improvement
+JS0443,Delhi,Education,2025-08-17,In Progress,46,Teachers are absent from school
+JS0444,Delhi,Public Works,2025-02-27,Pending,54,Roads are damaged and full of potholes
+JS0445,Bihar,Education,2025-10-21,In Progress,10,School has insufficient facilities
+JS0446,Delhi,Water Supply,2025-08-15,Pending,44,Dirty water is coming from taps
+JS0447,Rajasthan,Water Supply,2025-02-16,In Progress,29,Water supply is irregular
+JS0448,Bihar,Electricity,2025-09-20,Resolved,30,No electricity supply for several days
+JS0449,Delhi,Education,2025-08-25,In Progress,52,Teachers are absent from school
+JS0450,Rajasthan,Public Works,2025-05-11,Pending,48,Roads are damaged and full of potholes
+JS0451,Uttar Pradesh,Water Supply,2025-01-24,Resolved,23,Water supply is irregular
+JS0452,Uttar Pradesh,Electricity,2025-02-05,Resolved,3,Electricity connection request is pending
+JS0453,Bihar,Public Works,2025-03-11,In Progress,47,Road construction work is incomplete
+JS0454,Rajasthan,Health,2025-08-18,Resolved,25,Hospital facilities are inadequate
+JS0455,Bihar,Electricity,2025-12-01,Resolved,8,Electricity connection request is pending
+JS0456,Rajasthan,Water Supply,2025-09-28,Pending,47,Water supply is irregular
+JS0457,Uttar Pradesh,Water Supply,2025-06-02,Resolved,44,No drinking water supply in our area
+JS0458,Delhi,Education,2025-07-14,Pending,16,Students are not receiving textbooks
+JS0459,Bihar,Health,2025-05-22,Pending,60,Hospital facilities are inadequate
+JS0460,Rajasthan,Electricity,2025-11-11,Pending,16,Frequent power cuts in our village
+JS0461,Uttar Pradesh,Water Supply,2025-11-01,Pending,29,No drinking water supply in our area
+JS0462,Bihar,Education,2025-01-23,Resolved,29,Teachers are absent from school
+JS0463,Bihar,Water Supply,2025-01-29,Pending,33,Water supply is irregular
+JS0464,Delhi,Public Works,2025-06-13,In Progress,39,Street lights are not working
+JS0465,Madhya Pradesh,Public Works,2025-03-15,In Progress,34,Street lights are not working
+JS0466,Madhya Pradesh,Water Supply,2025-05-21,Pending,36,Water connection request is pending
+JS0467,Rajasthan,Education,2025-10-12,Resolved,4,Scholarship payment is delayed
+JS0468,Delhi,Public Works,2025-06-13,In Progress,27,Road construction work is incomplete
+JS0469,Madhya Pradesh,Health,2025-07-12,Pending,49,Doctor is not available at the health centre
+JS0470,Bihar,Education,2025-04-26,Resolved,55,Students are not receiving textbooks
+JS0471,Uttar Pradesh,Water Supply,2025-10-15,Resolved,27,Water connection request is pending
+JS0472,Bihar,Education,2025-07-18,Pending,17,School has insufficient facilities
+JS0473,Uttar Pradesh,Water Supply,2025-08-19,Resolved,6,Dirty water is coming from taps
+JS0474,Uttar Pradesh,Education,2025-05-18,Resolved,44,Scholarship payment is delayed
+JS0475,Uttar Pradesh,Education,2025-02-07,Pending,52,School has insufficient facilities
+JS0476,Bihar,Education,2025-09-03,Pending,56,School has insufficient facilities
+JS0477,Uttar Pradesh,Public Works,2025-04-19,Pending,48,Drainage system is blocked
+JS0478,Bihar,Electricity,2025-12-23,In Progress,46,No electricity supply for several days
+JS0479,Bihar,Water Supply,2025-10-10,Resolved,50,Water connection request is pending
+JS0480,Rajasthan,Public Works,2025-10-01,In Progress,23,Road construction work is incomplete
+JS0481,Madhya Pradesh,Public Works,2025-09-20,Resolved,30,Drainage system is blocked
+JS0482,Madhya Pradesh,Electricity,2025-04-15,Resolved,21,No electricity supply for several days
+JS0483,Delhi,Health,2025-04-24,In Progress,10,Government hospital lacks medicines
+JS0484,Delhi,Electricity,2025-10-27,In Progress,47,Transformer is damaged
+JS0485,Bihar,Health,2025-04-11,Resolved,15,Hospital facilities are inadequate
+JS0486,Bihar,Health,2025-09-13,In Progress,42,Health centre needs improvement
+JS0487,Rajasthan,Public Works,2025-11-25,In Progress,32,Drainage system is blocked
+JS0488,Madhya Pradesh,Health,2025-03-28,Pending,47,Doctor is not available at the health centre
+JS0489,Bihar,Education,2025-10-05,In Progress,4,Students are not receiving textbooks
+JS0490,Uttar Pradesh,Education,2025-12-09,Pending,49,Teachers are absent from school
+JS0491,Bihar,Electricity,2025-11-19,Pending,5,No electricity supply for several days
+JS0492,Bihar,Water Supply,2025-09-16,Resolved,24,No drinking water supply in our area
+JS0493,Delhi,Electricity,2025-09-05,In Progress,32,Electricity connection request is pending
+JS0494,Delhi,Electricity,2025-10-10,Resolved,1,Frequent power cuts in our village
+JS0495,Madhya Pradesh,Electricity,2025-10-02,Resolved,2,Electricity connection request is pending
+JS0496,Bihar,Education,2025-02-24,Pending,34,Students are not receiving textbooks
+JS0497,Bihar,Water Supply,2025-11-14,In Progress,17,Water pipeline is leaking
+JS0498,Rajasthan,Public Works,2025-02-10,Resolved,26,Drainage system is blocked
+JS0499,Bihar,Health,2025-12-23,Pending,20,Health centre needs improvement
+JS0500,Uttar Pradesh,Electricity,2025-07-27,Resolved,25,Frequent power cuts in our village
